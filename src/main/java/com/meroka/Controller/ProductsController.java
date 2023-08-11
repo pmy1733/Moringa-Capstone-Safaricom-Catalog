@@ -10,6 +10,7 @@ import com.meroka.service.ProductsService;
 //mark class as Controller  
 @RestController
 @RequestMapping("/api/v1")
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 public class ProductsController
 {
     //autowire the ProductsService class  

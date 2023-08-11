@@ -20,6 +20,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.0.0</version>
         </dependency>
 
         <dependency>
@@ -27,12 +28,6 @@
             <artifactId>lombok</artifactId>
             <version>1.18.28</version>
         </dependency>
-
-        <!--		<dependency>-->
-        <!--			<groupId>com.h2database</groupId>-->
-        <!--			<artifactId>h2</artifactId>-->
-        <!--			<scope>runtime</scope>-->
-        <!--		</dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -53,12 +48,6 @@
             <artifactId>hibernate-jpa-2.1-api</artifactId>
             <version>1.0.0.Final</version>
         </dependency>
-        <!-- Use MySQL Connector-J -->
-        <!--		<dependency>-->
-        <!--			<groupId>mysql</groupId>-->
-        <!--			<artifactId>mysql-connector-java</artifactId>-->
-        <!--&lt;!&ndash;			<version>8.0.31</version>&ndash;&gt;-->
-        <!--		</dependency>-->
 
         <dependency>
             <groupId>com.mysql</groupId>
