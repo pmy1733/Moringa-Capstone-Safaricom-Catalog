@@ -31,10 +31,17 @@ The web application code can be clonned from:https://github.com/pmy1733/Moringa-
   As a safaricom new employee i want to view a list of all safaricom Products so that i can have visibility of all products.
   As a safaricom new employee i want to search product per department so that i can learn more about the Product.
 ## Contact information
-* Phone:0708098190 
-* Email:pharmminous@gmail.com
-* Phone:0717477588
-* Email:ngendowainaina@gmail.com
+* Email: pharminous@gmail.com
+* Mobile: 0708098190
+
+* Email:ngendo.wainaina@gmail.com
+* Mobile: 0717477588
+
+* Email:kevin.obdhiambo@student.moringaschool.com
+* Mobile: 0725772955
+
+* Email: pnjukia@gmail.com
+* Mobile: 0722334325
 
 ## Known Bugs
 
