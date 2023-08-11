@@ -23,7 +23,7 @@ The web application code can be clonned from: https://github.com/pmy1733/Safaric
 * Java
 * MySQL
   ## User Stories
-   Safaricom new Joiners
+   **Persona Safaricom Employee_**
   As a safaricom new employee i want to view a list of all safaricom Products so that i can have visibility of all products.
   As a safaricom new employee i want to search product per department so that i can learn more about the Product.
 ## Contact information
