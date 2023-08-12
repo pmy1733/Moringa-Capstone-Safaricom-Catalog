@@ -44,5 +44,5 @@ The web application code can be clonned from:https://github.com/pmy1733/Moringa-
 * Mobile: 0722334325
 
 ## Known Bugs
-
+No reported bugs for now. Development in progress.
 ## License and Copyright information
