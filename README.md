@@ -12,7 +12,7 @@ This is a web based application that allows safaricom employees(old and new to h
 
 ## Setup instructions - includes any scripts that need to be run if necessary
 
-The web application code can be clonned from:https://github.com/pmy1733/Moringa-Capstone-Safaricom-Catalog
+The web application code can be cloned from:https://github.com/pmy1733/Moringa-Capstone-Safaricom-Catalog
 ## Live Link
 
 ## BDD.
