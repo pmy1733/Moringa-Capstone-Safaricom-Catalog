@@ -1,6 +1,6 @@
 # Moringa-Capstone-Safaricom-Catalog
 ## Project description
-This is a web based application that allows safaricom employees(old and new to have visibility of all safaricom products / services intenally.
+This is a web based application that allows Safaricom employees(old and new to have visibility of all safaricom products / services intenally.
 ## Author(s) information
 *Pharminous Nyabuto
 
@@ -28,8 +28,8 @@ The web application code can be cloned from:https://github.com/pmy1733/Moringa-C
 * MySQL
   ## User Stories
    **Persona Safaricom Employee_**
-  As a safaricom new employee i want to view a list of all safaricom Products so that i can have visibility of all products.
-  As a safaricom new employee i want to search product per department so that i can learn more about the Product.
+  As a Safaricom new employee I want to view a list of all Safaricom Products so that i can have visibility of all products.
+  As a Safaricom new employee I want to search product per department so that i can learn more about the Product.
 ## Contact information
 * Email: pharminous@gmail.com
 * Mobile: 0708098190
@@ -45,4 +45,4 @@ The web application code can be cloned from:https://github.com/pmy1733/Moringa-C
 
 ## Known Bugs
 No reported bugs for now. Development in progress.
-## License and Copyright information
+## License and Copyright information @2023
