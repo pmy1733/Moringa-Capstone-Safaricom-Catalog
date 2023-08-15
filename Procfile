@@ -1,1 +1,1 @@
-java -jar target/SafaricomCatalogApplication.jar
+web: mvn spring-boot:run
