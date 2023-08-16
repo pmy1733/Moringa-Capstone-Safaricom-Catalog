@@ -14,7 +14,7 @@ This is a web based application that allows Safaricom employees(old and new to h
 
 The web application code can be cloned from:https://github.com/pmy1733/Moringa-Capstone-Safaricom-Catalog
 ## Live Link
-
+https://productcataloguefrontend-ba59b9ce8345.herokuapp.com/
 ## BDD.
 * View list of all products with  small description of what the application does on the landing page.
 * Select a product from the list to get details about it
